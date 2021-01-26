@@ -1,0 +1,9 @@
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\bin\Debug\netcoreapp3.1\MindboxTest.deps.json
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\bin\Debug\netcoreapp3.1\MindboxTest.dll
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\bin\Debug\netcoreapp3.1\MindboxTest.pdb
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\obj\Debug\netcoreapp3.1\MindboxTest.csprojAssemblyReference.cache
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\obj\Debug\netcoreapp3.1\MindboxTest.AssemblyInfoInputs.cache
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\obj\Debug\netcoreapp3.1\MindboxTest.AssemblyInfo.cs
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\obj\Debug\netcoreapp3.1\MindboxTest.csproj.CoreCompileInputs.cache
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\obj\Debug\netcoreapp3.1\MindboxTest.dll
+C:\Users\Xaradas\source\repos\MindboxTest\MindboxTest\obj\Debug\netcoreapp3.1\MindboxTest.pdb
